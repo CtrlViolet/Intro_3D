@@ -1,5 +1,4 @@
-import * as THREE from "three";
-
+import * as THREE from './modules/three.module.js';
 // Crear la escena
 const scene = new THREE.Scene();
 
